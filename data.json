@@ -9,7 +9,7 @@
 	}, 
 	{
 		"city": "Saudi Arabian GP",
-    "latitude": 21.3755″, 
+    "latitude": 21.3755, 
 		"longitude": 39.616,
     "max": 12.0,
 		"min": 11.0,
@@ -45,7 +45,7 @@
   {
 		"city": "Spainish GP",
     "latitude": 41.3412, 
-		"longitude": 2.1540″,
+		"longitude": 2.1540,
     "max": 28.0,
 				"min": 21.0,
         "round": "06"
