@@ -1,0 +1,199 @@
+[
+	{
+		"city": "Bahrain GP",
+    "latitude": 26.0262, 
+		"longitude": 50.5063,
+    "max": 23.0,
+		"min": 10.0,
+    "round": 01
+	}, 
+	{
+		"city": "Saudi Arabian GP",
+    "latitude": 21.3755″, 
+		"longitude": 39.616,
+    "max": 12.0,
+		"min": 11.0,
+    "round": 02
+	}, 
+	{
+		"city": "Australian GP",
+    "latitude": -37.8432, 
+		"longitude": 144.9677,
+    "max": 14.0,
+				"min": 12.0,
+        "round": 02
+
+	}
+  {
+		"city": "Emilia Romagna GP",
+    "latitude": 44.353058, 
+		"longitude": 11.714722,
+    "max": 21.0,
+				"min": 11.0,
+        "round": 03
+
+	}
+  {
+		"city": "Miami GP",
+    "latitude": 25.9567, 
+		"longitude": 80.2367,
+    "max": 32.0,
+				"min": 23.0,
+        "round": 04
+
+	}
+  {
+		"city": "Spainish GP",
+    "latitude": 41.3412, 
+		"longitude": 2.1540″,
+    "max": 28.0,
+				"min": 21.0,
+        "round": 05
+
+	}
+  {
+		"city": "Monaco GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 22.0,
+				"min": 15.0,
+        "round": 06
+
+	}
+  {
+		"city": "Azerbaijan",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 15.0,
+				"min": 11.0,
+        "round": 07
+
+	}
+  {
+		"city": "Canadian GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 16.0,
+				"min": 11.0,
+        "round": 08
+
+	}
+  {
+		"city": "Great Britain GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 19.0,
+				"min": 12.0,
+        "round": 09
+
+	}
+  {
+		"city": "Austrian GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 12.0,
+				"min": 10.0,
+        "round": 10
+
+	}
+  {
+		"city": "French GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 19.0,
+				"min": 13.0,
+        "round": 11
+
+	}
+  {
+		"city": "Hungarian GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 21.0,
+				"min": 14.0,
+        "round": 12
+
+	}
+  {
+		"city": "Belgium GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 14.0,
+				"min": 13.0,
+        "round": 13
+
+	}
+  {
+		"city": "Dutch GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 34.0,
+				"min": 21.0,
+        "round": 14
+
+	}
+  {
+		"city": "Italian GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 23.0,
+				"min": 12.0,
+        "round": 15
+
+	}
+  {
+		"city": "Singapore GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 34.0,
+				"min": 21.0,
+        "round": 16
+
+	}
+  {
+		"city": "Japan GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 16.0,
+				"min": 12.0,
+        "round": 17
+
+	}
+  {
+		"city": "United States GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 23.0,
+				"min": 10.0,
+        "round": 18
+
+	}
+  {
+		"city": "Mexico GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 23.0,
+				"min": 10.0,
+        "round": 19
+
+	}
+  {
+		"city": "Brazil GP",
+    "latitude": 41.8781136, 
+		"longitude": -87.6297982,
+    "max": 21.0,
+				"min": 14.0,
+        "round": 20
+
+	}
+  {
+		"city": "Abu Dhabi GP",
+    "latitude": 24.4667, 
+		"longitude": 54.3667,
+    "max": 16.0,
+				"min": 8.0,
+        "round": 21
+
+	}
+
+]
